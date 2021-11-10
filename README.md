@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KevGMR
 - 👀 I’m interested in Javascript, Python, Backend Development(Node Js)
-- 🌱 I’m currently learning React JS and Angular Js
+- 🌱 I’m currently learning React JS, Angular Js , Machine Learning
 - 💞️ I’m looking to collaborate on just about anything
 - 📫 How to reach me kevingatamumuthoni@gmail.com
 
